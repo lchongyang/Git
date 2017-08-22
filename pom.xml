@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>v1.0s</finalName>
+    <finalName>v1.0</finalName>
   </build>
 </project>
